@@ -9,6 +9,9 @@ My Azure Certifications is a repo where I gather all my azure certifications pra
 
 # List of repos (not mine) which I got help from
 
+# Links
+
+- https://www.examtopics.com/exams/microsoft/
 
 # See wiki
 
