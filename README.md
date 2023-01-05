@@ -4,8 +4,8 @@ My Azure Certifications is a repo where I gather all my azure certifications pra
 
 # My azure repos in Git
 
-- https://github.com/ulysesrico33/az-900-exam.git
-- https://github.com/ulysesrico33/az-204-exam.git
+- [Git - AZ 900](https://github.com/ulysesrico33/az-900-exam.git)
+- [Git - AZ 204](https://github.com/ulysesrico33/az-204-exam.git)
 
 # Other repos
 
