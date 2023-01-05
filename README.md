@@ -7,7 +7,9 @@ My Azure Certifications is a repo where I gather all my azure certifications pra
 - https://github.com/ulysesrico33/az-900-exam.git
 - https://github.com/ulysesrico33/az-204-exam.git
 
-# List of repos (not mine) which I got help from
+# Other repos
+
+List of other repos, not mine, where I backed up
 
 # Links
 
