@@ -11,6 +11,8 @@ My Azure Certifications is a repo where I gather all my azure certifications pra
 
 List of other repos, not mine, where I backed up
 
+- [Official Git Azure sample repos](https://github.com/orgs/Azure-Samples/repositories)
+
 # Links
 
 - [Exam topics > List of all Microsoft exams](https://www.examtopics.com/exams/microsoft/)
