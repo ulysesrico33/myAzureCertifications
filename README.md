@@ -12,6 +12,7 @@ My Azure Certifications is a repo where I gather all my azure certifications pra
 List of other repos, not mine, where I backed up
 
 - [Official Git Azure sample repos](https://github.com/orgs/Azure-Samples/repositories)
+- [Azure Dev Days (Avidxchange)](https://github.com/microsoft/azure-dev-day)
 
 # Links
 
