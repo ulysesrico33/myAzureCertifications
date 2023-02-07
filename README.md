@@ -18,3 +18,4 @@ List of other repos, not mine, where I backed up
 
 - [Exam topics > List of all Microsoft exams](https://www.examtopics.com/exams/microsoft/)
 - [Plural sight > Azure](https://app.pluralsight.com/channels/details/dc292557-a9f7-47b7-a938-341c4f36f188?s=1)
+- [Analytics](https://github.com/ulysesrico33/myAzureCertifications/wiki)
