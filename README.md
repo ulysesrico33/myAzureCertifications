@@ -2,6 +2,7 @@
 
 My Azure Certifications is a repo where I gather all my azure certifications practices or recommendations
 
+My account in Microsoft Learn (here I can have badges, etc) : [My profile](https://learn.microsoft.com/en-us/users/UlysesRicoreaUSTMX-7620)
 # My azure repos in Git
 
 - [Git - AZ 900](https://github.com/ulysesrico33/az-900-exam.git)
